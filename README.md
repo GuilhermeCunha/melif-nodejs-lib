@@ -1,4 +1,6 @@
 # Melif
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGuilhermeCunha%2Fmelif-nodejs-lib.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGuilhermeCunha%2Fmelif-nodejs-lib?ref=badge_shield)
+
 
 Melif is an SDK that helps in the integration between the developer and the Mercado Libre API
 
@@ -75,3 +77,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGuilhermeCunha%2Fmelif-nodejs-lib.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGuilhermeCunha%2Fmelif-nodejs-lib?ref=badge_large)
