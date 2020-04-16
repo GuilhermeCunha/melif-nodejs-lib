@@ -77,4 +77,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuilhermeCunha%2Fmelif-nodejs-lib.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGuilhermeCunha%2Fmelif-nodejs-lib?ref=badge_large)
