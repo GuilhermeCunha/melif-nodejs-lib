@@ -92,6 +92,18 @@ var Melif = function (config) {
         return data;
     }
 
+    this.getUserReputationById = async function (user_id) {
+        var data = await Api.get(`/users/${item_id}`, {
+        }).then((result) => {
+            return result.data;
+        }).catch((err) => {
+            console.log(err);
+            return null;
+        });
+
+        return data;
+    }
+
     // ---------- END OF USER AREA ----------
 
 

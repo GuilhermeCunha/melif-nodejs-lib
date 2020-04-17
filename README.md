@@ -52,6 +52,7 @@ refreshToken(...)
 
 getUserById(...)
 getUserByNickname(...)
+getUserReputationById(...)
 
 createItem(...)
 getItemIdsByUserId(...)
