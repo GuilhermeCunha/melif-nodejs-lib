@@ -1,6 +1,6 @@
 {
   "name": "melif",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Biblioteca NodeJs criada para facilitar a integração com a API do Mercado Livre",
   "main": "index.js",
   "scripts": {

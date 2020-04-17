@@ -93,7 +93,7 @@ var Melif = function (config) {
     }
 
     this.getUserReputationById = async function (user_id) {
-        var data = await Api.get(`/users/${item_id}`, {
+        var data = await Api.get(`/users/${user_id}`, {
         }).then((result) => {
             return result.data;
         }).catch((err) => {
